@@ -1,0 +1,29 @@
+{
+  "name": "is-real-boolean",
+  "version": "1.0.1",
+  "description": "check if a boolean primtiive",
+  "keywords": [
+    "boolean"
+  ],
+  "homepage": "https://github.com/10xly/is-real-boolean#readme",
+  "bugs": {
+    "url": "https://github.com/10xly/is-real-boolean/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/10xly/is-real-boolean.git"
+  },
+  "license": "MIT",
+  "author": "tj-commits",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@_immo/return": "^1.1.1",
+    "@10xly/strict-equals": "^1.0.1",
+    "es-typeof": "^1.0.0"
+  },
+  "devDependencies": {}
+}
